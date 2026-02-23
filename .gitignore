@@ -1,0 +1,11 @@
+config.yml
+config.py
+icon.png
+keystore.p12
+keystore.jks
+*.keystore
+archive/
+metadata/
+srclibs/
+tmp/
+unsigned/
